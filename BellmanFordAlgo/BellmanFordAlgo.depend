@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1585588760 source:d:\daa_lab\bellmanfordalgo\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
